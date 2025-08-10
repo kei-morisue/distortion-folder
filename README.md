@@ -5,7 +5,7 @@ distort valid flat-foldable states of flat-foldable crease patterns exported fro
 
 ## How to use
 ![Distortin-Folder Screen](./sample/fdss.png)
-1. Go to [Distortin-Folder](https://kei-morisue.github.io/distorted-folder/).
+1. Go to [Distortin-Folder](https://kei-morisue.github.io/distortion-folder/).
     - Tested to run in Chrome.
 
 1. It automatically processes [sample file](./sample/opensink_water_bomb.fold).
